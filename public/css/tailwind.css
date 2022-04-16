@@ -1,0 +1,12 @@
+@tailwind base;
+
+@tailwind components;
+
+@font-face {
+    font-family: "iran";
+    src: url(/fonts/iran_light.68f68e336b3f4cc86ba1.woff?ce3ba9c0ab261bd6268c9460b4325a01);
+}
+
+
+@tailwind utilities;
+
